@@ -1,0 +1,523 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543209653968" stop="1543210337226">
+  <description>
+Created on Nov 9, 2018
+
+@author: subharad
+</description>
+  <name>test_vims</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1543209653968" status="passed" stop="1543209660665">
+      <name>TestSample.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209664871" status="passed" stop="1543209672306">
+      <name>TestSample.test_logout</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209676512" status="passed" stop="1543209682735">
+      <name>TestSample.test_welcome</name>
+      <attachments>
+        <attachment source="6e0d9d0f-5a21-495c-971d-8b40ad68a699-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209686946" status="passed" stop="1543209696345">
+      <name>TestSample.test_appointment</name>
+      <attachments>
+        <attachment source="aa4f1f8f-39a3-46cc-9fcf-728b97fc112b-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209700600" status="passed" stop="1543209711107">
+      <name>TestSample.test_location_dropdown</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209715345" status="passed" stop="1543209734256">
+      <name>TestSample.test_date_picker</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209738478" status="passed" stop="1543209748873">
+      <name>TestSample.test_visitor_name</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209753114" status="passed" stop="1543209783814">
+      <name>TestSample.test_visitor_org</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209788031" status="passed" stop="1543209819731">
+      <name>TestSample.test_visitor_phone</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209823966" status="passed" stop="1543209856349">
+      <name>TestSample.test_save_button</name>
+      <attachments>
+        <attachment source="738b646f-8b56-406e-bc9b-e65c9fa49954-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209860583" status="passed" stop="1543209934626">
+      <name>TestSample.test_cancel_button</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209938849" status="passed" stop="1543209969281">
+      <name>TestSample.test_search_field</name>
+      <attachments>
+        <attachment source="0f4c229c-0a36-4ec0-b3b7-ecf174bd3605-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543209973515" status="passed" stop="1543210003608">
+      <name>TestSample.test_search_no_record_found</name>
+      <attachments>
+        <attachment source="340da3f2-90a3-4cd2-994a-8fc3e8f358b9-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210007818" status="passed" stop="1543210032570">
+      <name>TestSample.test_appointment_submit</name>
+      <attachments>
+        <attachment source="af326cdb-10cc-4a89-8b36-9e0569ab7c36-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210036776" status="failed" stop="1543210056874">
+      <name>TestSample.test_app_already_exists</name>
+      <failure>
+        <message>ElementNotVisibleException: Message: element not interactable
+  (Session info: chrome=70.0.3538.110)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)
+</message>
+        <stack-trace>self = &lt;test_vims.TestSample object at 0x05291DD0&gt;, test_setup = None
+
+    def test_app_already_exists(self,test_setup):
+        login = Login(driver)
+        login.login()
+        apt = homepage(driver)
+        apt.click_appointment()
+        apt.new_appointment()
+        apt.select_date_picker()
+        apt.location_dropdown()
+        apt.get_visitor_name()
+        apt.get_visitor_org()
+        apt.get_visitor_phone()
+        apt.save_button()
+        time.sleep(2)
+        apt.app_exist_msg()
+&gt;       apt.app_exists_ok()
+
+test_vims.py:184: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+test_homepage.py:200: in app_exists_ok
+    ok.click()
+c:\python37-32\lib\site-packages\selenium\webdriver\remote\webelement.py:80: in click
+    self._execute(Command.CLICK_ELEMENT)
+c:\python37-32\lib\site-packages\selenium\webdriver\remote\webelement.py:628: in _execute
+    return self._parent.execute(command, params)
+c:\python37-32\lib\site-packages\selenium\webdriver\remote\webdriver.py:312: in execute
+    self.error_handler.check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x05291710&gt;
+response = {'sessionId': '3a953c82eb4705bc234fd413fd0acfb8', 'status': 11, 'value': {'message': 'element not interactable\n  (Ses...ver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)'}}
+
+    def check_response(self, response):
+        """
+        Checks that a JSON response from the WebDriver does not have an error.
+    
+        :Args:
+         - response - The JSON response from the WebDriver server as a dictionary
+           object.
+    
+        :Raises: If the response contains an error message.
+        """
+        status = response.get('status', None)
+        if status is None or status == ErrorCode.SUCCESS:
+            return
+        value = None
+        message = response.get("message", "")
+        screen = response.get("screen", "")
+        stacktrace = None
+        if isinstance(status, int):
+            value_json = response.get('value', None)
+            if value_json and isinstance(value_json, basestring):
+                import json
+                try:
+                    value = json.loads(value_json)
+                    if len(value.keys()) == 1:
+                        value = value['value']
+                    status = value.get('error', None)
+                    if status is None:
+                        status = value["status"]
+                        message = value["value"]
+                        if not isinstance(message, basestring):
+                            value = message
+                            message = message.get('message')
+                    else:
+                        message = value.get('message', None)
+                except ValueError:
+                    pass
+    
+        exception_class = ErrorInResponseException
+        if status in ErrorCode.NO_SUCH_ELEMENT:
+            exception_class = NoSuchElementException
+        elif status in ErrorCode.NO_SUCH_FRAME:
+            exception_class = NoSuchFrameException
+        elif status in ErrorCode.NO_SUCH_WINDOW:
+            exception_class = NoSuchWindowException
+        elif status in ErrorCode.STALE_ELEMENT_REFERENCE:
+            exception_class = StaleElementReferenceException
+        elif status in ErrorCode.ELEMENT_NOT_VISIBLE:
+            exception_class = ElementNotVisibleException
+        elif status in ErrorCode.INVALID_ELEMENT_STATE:
+            exception_class = InvalidElementStateException
+        elif status in ErrorCode.INVALID_SELECTOR \
+                or status in ErrorCode.INVALID_XPATH_SELECTOR \
+                or status in ErrorCode.INVALID_XPATH_SELECTOR_RETURN_TYPER:
+            exception_class = InvalidSelectorException
+        elif status in ErrorCode.ELEMENT_IS_NOT_SELECTABLE:
+            exception_class = ElementNotSelectableException
+        elif status in ErrorCode.ELEMENT_NOT_INTERACTABLE:
+            exception_class = ElementNotInteractableException
+        elif status in ErrorCode.INVALID_COOKIE_DOMAIN:
+            exception_class = InvalidCookieDomainException
+        elif status in ErrorCode.UNABLE_TO_SET_COOKIE:
+            exception_class = UnableToSetCookieException
+        elif status in ErrorCode.TIMEOUT:
+            exception_class = TimeoutException
+        elif status in ErrorCode.SCRIPT_TIMEOUT:
+            exception_class = TimeoutException
+        elif status in ErrorCode.UNKNOWN_ERROR:
+            exception_class = WebDriverException
+        elif status in ErrorCode.UNEXPECTED_ALERT_OPEN:
+            exception_class = UnexpectedAlertPresentException
+        elif status in ErrorCode.NO_ALERT_OPEN:
+            exception_class = NoAlertPresentException
+        elif status in ErrorCode.IME_NOT_AVAILABLE:
+            exception_class = ImeNotAvailableException
+        elif status in ErrorCode.IME_ENGINE_ACTIVATION_FAILED:
+            exception_class = ImeActivationFailedException
+        elif status in ErrorCode.MOVE_TARGET_OUT_OF_BOUNDS:
+            exception_class = MoveTargetOutOfBoundsException
+        elif status in ErrorCode.JAVASCRIPT_ERROR:
+            exception_class = JavascriptException
+        elif status in ErrorCode.SESSION_NOT_CREATED:
+            exception_class = SessionNotCreatedException
+        elif status in ErrorCode.INVALID_ARGUMENT:
+            exception_class = InvalidArgumentException
+        elif status in ErrorCode.NO_SUCH_COOKIE:
+            exception_class = NoSuchCookieException
+        elif status in ErrorCode.UNABLE_TO_CAPTURE_SCREEN:
+            exception_class = ScreenshotException
+        elif status in ErrorCode.ELEMENT_CLICK_INTERCEPTED:
+            exception_class = ElementClickInterceptedException
+        elif status in ErrorCode.INSECURE_CERTIFICATE:
+            exception_class = InsecureCertificateException
+        elif status in ErrorCode.INVALID_COORDINATES:
+            exception_class = InvalidCoordinatesException
+        elif status in ErrorCode.INVALID_SESSION_ID:
+            exception_class = InvalidSessionIdException
+        elif status in ErrorCode.UNKNOWN_METHOD:
+            exception_class = UnknownMethodException
+        else:
+            exception_class = WebDriverException
+        if value == '' or value is None:
+            value = response['value']
+        if isinstance(value, basestring):
+            if exception_class == ErrorInResponseException:
+                raise exception_class(response, value)
+            raise exception_class(value)
+        if message == "" and 'message' in value:
+            message = value['message']
+    
+        screen = None
+        if 'screen' in value:
+            screen = value['screen']
+    
+        stacktrace = None
+        if 'stackTrace' in value and value['stackTrace']:
+            stacktrace = []
+            try:
+                for frame in value['stackTrace']:
+                    line = self._value_or_default(frame, 'lineNumber', '')
+                    file = self._value_or_default(frame, 'fileName', '&lt;anonymous&gt;')
+                    if line:
+                        file = "%s:%s" % (file, line)
+                    meth = self._value_or_default(frame, 'methodName', '&lt;anonymous&gt;')
+                    if 'className' in frame:
+                        meth = "%s.%s" % (frame['className'], meth)
+                    msg = "    at %s (%s)"
+                    msg = msg % (meth, file)
+                    stacktrace.append(msg)
+            except TypeError:
+                pass
+        if exception_class == ErrorInResponseException:
+            raise exception_class(response, message)
+        elif exception_class == UnexpectedAlertPresentException:
+            alert_text = None
+            if 'data' in value:
+                alert_text = value['data'].get('text')
+            elif 'alert' in value:
+                alert_text = value['alert'].get('text')
+            raise exception_class(message, screen, stacktrace, alert_text)
+&gt;       raise exception_class(message, screen, stacktrace)
+E       selenium.common.exceptions.ElementNotVisibleException: Message: element not interactable
+E         (Session info: chrome=70.0.3538.110)
+E         (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)
+
+c:\python37-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py:242: ElementNotVisibleException</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="29c6a458-bd2a-4b0e-b309-9398cbf9e359-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210061096" status="passed" stop="1543210070226">
+      <name>TestSample.test_delete_message</name>
+      <attachments>
+        <attachment source="a8bc6700-86bf-4124-bd75-aeb4a4aa1f56-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210074480" status="passed" stop="1543210093645">
+      <name>TestSample.test_delete_yes</name>
+      <attachments>
+        <attachment source="6122d792-b8dd-47e6-949b-a0346173d0f2-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210097894" status="passed" stop="1543210110770">
+      <name>TestSample.test_delete_no</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210115021" status="passed" stop="1543210134085">
+      <name>TestSample.test_update_entry</name>
+      <attachments>
+        <attachment source="7de42e36-b0a7-4a42-a3fd-6323a60b432a-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210138309" status="passed" stop="1543210168309">
+      <name>TestSample.test_show_entries</name>
+      <attachments>
+        <attachment source="beded422-323f-4f29-bcfd-f8abdf2f3be5-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210172523" status="passed" stop="1543210184580">
+      <name>TestSample.test_check_in</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210188827" status="passed" stop="1543210207827">
+      <name>TestSample.test_check_in_details</name>
+      <attachments>
+        <attachment source="edc9d03e-4ccf-4d78-9eb4-5eb3d185fa5d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210212053" status="passed" stop="1543210226756">
+      <name>TestSample.test_check_out</name>
+      <attachments>
+        <attachment source="759af4eb-7a39-496c-a73d-5a691ae46629-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210230977" status="passed" stop="1543210271157">
+      <name>TestSample.test_bulk_upload</name>
+      <attachments>
+        <attachment source="911feadb-00f2-4741-86cf-73c8b5fb4b80-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1543210275387" status="passed" stop="1543210337226">
+      <name>TestSample.test_report</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15904-MainThread"/>
+        <label name="host" value="DIN80004897"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

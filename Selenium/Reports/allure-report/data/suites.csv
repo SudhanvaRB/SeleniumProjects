@@ -1,0 +1,141 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_vims.TestSample.test_delete_message","10569","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_show_entries","29243","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_delete_yes","20300","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_welcome","7690","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"failed","test_vims.TestSample.test_bulk_check_out","8906","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_login","7208","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_check_in_details","9435","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"failed","test_vims.TestSample.test_check_out","8234","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_visitor_name","12028","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_search_field","11598","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_app_already_exists","22219","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_visitor_org","11686","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"failed","test_vims.TestSample.test_report","8196","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_delete_no","13841","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_save_button","17468","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_bulk_upload","40629","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_update_entry","19498","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_check_in","10673","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_appointment_submit","26673","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_search_no_record_found","10387","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_dashboard","23730","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_appointment","9956","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_cancel_button","12388","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_date_picker","11557","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_visitor_phone","11783","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_location_dropdown","11547","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"failed","test_vims.TestSample.test_bulk_check_out_single","8360","
+Created on Nov 9, 2018
+
+@author: subharad
+"
+"passed","test_vims.TestSample.test_logout","8774","
+Created on Nov 9, 2018
+
+@author: subharad
+"

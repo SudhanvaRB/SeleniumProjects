@@ -1,0 +1,76 @@
+{
+  "uid" : "a16c8b01aa179e54",
+  "name" : "TestSample.test_appointment",
+  "fullName" : "test_vims.TestSample.test_appointment",
+  "historyId" : "f830182c8678e774bdd8bf9ca54b0b4d",
+  "time" : {
+    "start" : 1544419817553,
+    "stop" : 1544419827509,
+    "duration" : 9956
+  },
+  "description" : "\nCreated on Nov 9, 2018\n\n@author: subharad\n",
+  "descriptionHtml" : "<p>Created on Nov 9, 2018</p>\n<p>@author: subharad</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3681e52b1ae4c3d",
+      "name" : "Captured stdout call",
+      "source" : "3681e52b1ae4c3d.txt",
+      "type" : "text/plain",
+      "size" : 21
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DIN80004897"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7636-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_vims"
+  }, {
+    "name" : "testClass",
+    "value" : "test_vims"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestSample.test_appointment"
+  }, {
+    "name" : "package",
+    "value" : "test_vims"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a16c8b01aa179e54.json",
+  "parameterValues" : [ ]
+}

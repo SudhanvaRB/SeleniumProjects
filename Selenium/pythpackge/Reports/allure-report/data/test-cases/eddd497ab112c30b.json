@@ -1,0 +1,60 @@
+{
+  "uid" : "eddd497ab112c30b",
+  "name" : "TestSample.test_cancel_button",
+  "fullName" : "test_vims.TestSample.test_cancel_button",
+  "historyId" : "ebc6ce8d26929c1686687cd8d746ada9",
+  "time" : {
+    "start" : 1543209860583,
+    "stop" : 1543209934626,
+    "duration" : 74043
+  },
+  "description" : "\nCreated on Nov 9, 2018\n\n@author: subharad\n",
+  "descriptionHtml" : "<p>Created on Nov 9, 2018</p>\n<p>@author: subharad</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DIN80004897"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "15904-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_vims"
+  }, {
+    "name" : "testClass",
+    "value" : "test_vims"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestSample.test_cancel_button"
+  }, {
+    "name" : "package",
+    "value" : "test_vims"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eddd497ab112c30b.json",
+  "parameterValues" : [ ]
+}

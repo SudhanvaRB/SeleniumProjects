@@ -1,0 +1,3 @@
+Veuillez entrer la date de début du rendez-vous.
+Utiliser les caractères uniquement.
+Veuillez entrer un numéro de portable valide.

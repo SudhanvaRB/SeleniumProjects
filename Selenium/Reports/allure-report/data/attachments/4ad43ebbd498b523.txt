@@ -1,0 +1,2 @@
+Header Text :Rendez-vous Confirmation
+Votre rendez-vous a été créé avec succès. Identifiant de rendez-vous:AF1012180004

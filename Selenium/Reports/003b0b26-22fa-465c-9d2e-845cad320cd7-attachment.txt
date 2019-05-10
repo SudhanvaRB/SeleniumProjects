@@ -1,0 +1,1 @@
+Delete confirm shows the following message: Le rendez-vous a été supprimé avec succès

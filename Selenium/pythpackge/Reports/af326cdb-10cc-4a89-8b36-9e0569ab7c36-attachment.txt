@@ -1,0 +1,2 @@
+Header Text :Appointment Confirmation
+Body text :Your Appointment successfully created.Appointment ID:AU2611180012

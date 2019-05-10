@@ -1,0 +1,1 @@
+Clicking on delete button shows the following messageDo you want to delete this Appointment?

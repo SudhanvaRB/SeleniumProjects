@@ -1,0 +1,9 @@
+S. No Appointment Type Appointment Fromdate Appointment Todate Appointment Time Building Organization Visitor Host Nationality Visitor Type Purpose Remarks
+1 Multiple 25 Nov 2018 27 Nov 2018 14:25 New York-79 Fifth Ave hiluo Vjitr Timothy Holland 0 0 0 > Appointment fromdate cannot be less than current date.
+> Appointment already exists.
+2 Single 25 Nov 2018 25 Nov 2018 15:00 New York-79 Fifth Ave hiluo Kloaf Timothy Holland 0 0 0 > Appointment fromdate cannot be less than current date.
+> Appointment already exists.
+S. No Summary Count
+1 Total no. of Appointments in excel 2
+2 No. of Appointments inserted 0
+3 No. of Appointments rejected 2

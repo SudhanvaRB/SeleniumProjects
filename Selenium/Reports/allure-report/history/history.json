@@ -1,0 +1,538 @@
+{
+  "250d733ad6b779ae0e0b230dbeb839e9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2f855a255f34507",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Bulk Check Out\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "time" : {
+        "start" : 1544420250548,
+        "stop" : 1544420258908,
+        "duration" : 8360
+      }
+    } ]
+  },
+  "b84e541b12c914e1d9dee3ca89ed1d0" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "838a5b55219043f",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Bulk Check Out\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "time" : {
+        "start" : 1544420263110,
+        "stop" : 1544420272016,
+        "duration" : 8906
+      }
+    } ]
+  },
+  "c55248cab140906755f114e46d2d71a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a0fe2455d1d8844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420118841,
+        "stop" : 1544420148084,
+        "duration" : 29243
+      }
+    } ]
+  },
+  "d722a520dd234df65e1c7a45207d95e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "379a58231e9006de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420077034,
+        "stop" : 1544420090875,
+        "duration" : 13841
+      }
+    } ]
+  },
+  "14b26eff03f4d462fe2bf7578ff173ee" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f4bf19ce9ae356b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419980171,
+        "stop" : 1544420006844,
+        "duration" : 26673
+      }
+    } ]
+  },
+  "34cd41355071fa45dd24101128ee5c4a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f9ffa7295478267b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419863231,
+        "stop" : 1544419875259,
+        "duration" : 12028
+      }
+    } ]
+  },
+  "f296d47f6347e9a8ef33609a0abb3988" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7802d8793b2eba47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419879475,
+        "stop" : 1544419891161,
+        "duration" : 11686
+      }
+    } ]
+  },
+  "546e4d291b6f57f9bd6478a7ade14659" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f2666574c9ffc51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419790397,
+        "stop" : 1544419799171,
+        "duration" : 8774
+      }
+    } ]
+  },
+  "181d438b1f0e9136972193d541f0a8c5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "59549c56bb323da",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Check Out\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "time" : {
+        "start" : 1544420180844,
+        "stop" : 1544420189078,
+        "duration" : 8234
+      }
+    } ]
+  },
+  "f385dc6e4db6729e3293555fe7f79183" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "362781d558d6569c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420052464,
+        "stop" : 1544420072764,
+        "duration" : 20300
+      }
+    } ]
+  },
+  "eafbb86ef8c8abb02195bbaccc898452" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db8174e37c08d50d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419965535,
+        "stop" : 1544419975922,
+        "duration" : 10387
+      }
+    } ]
+  },
+  "7feb7d80f7309d6d11054c0f6ad4ffc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "621a2e2afbb2cf51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420276213,
+        "stop" : 1544420299943,
+        "duration" : 23730
+      }
+    } ]
+  },
+  "95ca5fe0e1a666f0a5f9162ef32fc38e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66f51d05eb3af5d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419778982,
+        "stop" : 1544419786190,
+        "duration" : 7208
+      }
+    } ]
+  },
+  "b1193c86c5e87f8ba464be2c68e68286" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4a09c4c2f0fc424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419949715,
+        "stop" : 1544419961313,
+        "duration" : 11598
+      }
+    } ]
+  },
+  "cb63e7c255823d1730541b4c33bc12e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e473eb17ce1eb9b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420095118,
+        "stop" : 1544420114616,
+        "duration" : 19498
+      }
+    } ]
+  },
+  "2fe95d1d703a6ebd4154dd8ff139879b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "346355871d809e52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420167182,
+        "stop" : 1544420176617,
+        "duration" : 9435
+      }
+    } ]
+  },
+  "5835766fe7555aeb71722da0fcc0fe75" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a9a5e616b2018fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419911347,
+        "stop" : 1544419928815,
+        "duration" : 17468
+      }
+    } ]
+  },
+  "bd20ac193cb9bf05b86b21f6f643a63d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b33a6746c59f6c49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419805652,
+        "stop" : 1544419813342,
+        "duration" : 7690
+      }
+    } ]
+  },
+  "ce6f6329da13ae62411f0666f3f5adea" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddb49e104816b5fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420011062,
+        "stop" : 1544420033281,
+        "duration" : 22219
+      }
+    } ]
+  },
+  "9965d4ff4439ba8f4a1d0ee0fd4cd776" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f8a0abcba8369a7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419831713,
+        "stop" : 1544419843260,
+        "duration" : 11547
+      }
+    } ]
+  },
+  "f830182c8678e774bdd8bf9ca54b0b4d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a16c8b01aa179e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419817553,
+        "stop" : 1544419827509,
+        "duration" : 9956
+      }
+    } ]
+  },
+  "ebc6ce8d26929c1686687cd8d746ada9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "190b2f244ab460e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419933035,
+        "stop" : 1544419945423,
+        "duration" : 12388
+      }
+    } ]
+  },
+  "319b60413c22ce7391b35891167cbf47" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73ee25ef01a91da3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419895364,
+        "stop" : 1544419907147,
+        "duration" : 11783
+      }
+    } ]
+  },
+  "4ef65cefabf1dce71952eb373153f3ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d514b08a6a7f9fe0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420152298,
+        "stop" : 1544420162971,
+        "duration" : 10673
+      }
+    } ]
+  },
+  "4b8678d4d13e16cce5d7a909b772c7cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cc70a88b7d10ddc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420193289,
+        "stop" : 1544420233918,
+        "duration" : 40629
+      }
+    } ]
+  },
+  "a2048cf3568226968c22061028e78501" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72ce44de66b81701",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Appointment Report\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "time" : {
+        "start" : 1544420238145,
+        "stop" : 1544420246341,
+        "duration" : 8196
+      }
+    } ]
+  },
+  "7cf8c8fe4e5beec169f1c7fa574ebce3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6dc97108917676f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544419847472,
+        "stop" : 1544419859029,
+        "duration" : 11557
+      }
+    } ]
+  },
+  "3db8a0464b70a067644cf9e1ddb0b047" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d3d6bf657fc827c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544420037661,
+        "stop" : 1544420048230,
+        "duration" : 10569
+      }
+    } ]
+  }
+}

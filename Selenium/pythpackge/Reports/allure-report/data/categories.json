@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "ElementNotVisibleException: Message: element not interactable\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "children" : [ {
+        "name" : "TestSample.test_app_already_exists",
+        "uid" : "52eb55bf7be7a352",
+        "parentUid" : "92209f2641c8c237b606832d8dd29baf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1543210036776,
+          "stop" : 1543210056874,
+          "duration" : 20098
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92209f2641c8c237b606832d8dd29baf"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

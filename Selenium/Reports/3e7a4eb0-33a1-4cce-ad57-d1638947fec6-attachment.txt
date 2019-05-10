@@ -1,0 +1,2 @@
+Header Text :Rendez-vous Confirmation
+Votre rendez-vous a bien été mis à jour

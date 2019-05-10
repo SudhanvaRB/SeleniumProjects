@@ -1,0 +1,69 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Check Out\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "children" : [ {
+        "name" : "TestSample.test_check_out",
+        "uid" : "59549c56bb323da",
+        "parentUid" : "14b476201f7e5a5c8952dee655d63a65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544420180844,
+          "stop" : 1544420189078,
+          "duration" : 8234
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "14b476201f7e5a5c8952dee655d63a65"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Appointment Report\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "children" : [ {
+        "name" : "TestSample.test_report",
+        "uid" : "72ce44de66b81701",
+        "parentUid" : "b2601e6b32d513eafda339ea71b4fefe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544420238145,
+          "stop" : 1544420246341,
+          "duration" : 8196
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b2601e6b32d513eafda339ea71b4fefe"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"→ Bulk Check Out\"}\n  (Session info: chrome=70.0.3538.110)\n  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17134 x86_64)\n",
+      "children" : [ {
+        "name" : "TestSample.test_bulk_check_out_single",
+        "uid" : "e2f855a255f34507",
+        "parentUid" : "84e4f7b37a4f508af6fd36388f67eb03",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544420250548,
+          "stop" : 1544420258908,
+          "duration" : 8360
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestSample.test_bulk_check_out",
+        "uid" : "838a5b55219043f",
+        "parentUid" : "84e4f7b37a4f508af6fd36388f67eb03",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544420263110,
+          "stop" : 1544420272016,
+          "duration" : 8906
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84e4f7b37a4f508af6fd36388f67eb03"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

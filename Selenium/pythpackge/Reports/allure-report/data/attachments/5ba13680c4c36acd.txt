@@ -1,0 +1,26 @@
+Welcome Timothy Holland
+Dashboards
+Appointment
+Check In / Check Out
+Bulk Appointment
+Report
+Help
+Logout
+Appointment Visitor New
+New Appointment
+Save Cancel
+Appointment Type
+Single
+Multiple
+Appointment Start Date & Time*
+Visitor Name*
+Visitor Organization*
+Visitor Mobile Number*
+Visitor Email Id
+Building*
+ Select Building 
+New York-79 Fifth Ave
+To meet(Host Name/ID)*
+Copyright © Capgemini All Rights Reserved.
+No search results.
+No search results.
